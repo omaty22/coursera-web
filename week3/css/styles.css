@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: Tahoma, sans-serif;
+}
+
+#header-nav {
+	border: none;
+	border-radius: 0;
+	background-color: grey;
+	clear: left;
+}
+
+.navbar-default .navbar-brand {
+	color: black;
+	font-size: 30px;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: black;
+	text-align: center;
+	font-size: 17px;
+}
+
+#paragraph {
+	font-size: 17px;
+}
+
+h2 {
+	text-align: center;
+}
+
+.container {
+	width: 100%;
+}
+
+.col-md-4 > div {
+	margin: 5px;
+	background-color: grey;
+}
+
+.row {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+div.col-md-4 div {
+	padding: 0px 15px 0px 15px;
+}
+
+header {
+	text-align: center;
+	padding: 10px 0px 0px 0px;
+	font-size: 17px;
+}
